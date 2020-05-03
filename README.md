@@ -9,7 +9,7 @@ Your task is to write several functions that are the solution to the subtasks. S
 - [x] Carbon dating
 - [x] Dream team
 - [X] What season?
-- [ ] Tower of Hanoi
+- [x] Tower of Hanoi
 - [ ] Transform array
 - [ ] Chain maker
 - [ ] Recursive depth calculator
