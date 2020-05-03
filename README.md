@@ -4,7 +4,17 @@
 
 ## General task description
 Your task is to write several functions that are the solution to the subtasks. Subtasks descriptions, as well as instructions on how to run tests and submit solutions are below.
-
+---
+- [x] Count cats!
+- [ ] Carbon dating
+- [ ] Dream team
+- [ ] What season?
+- [ ] Tower of Hanoi
+- [ ] Transform array
+- [ ] Chain maker
+- [ ] Recursive depth calculator
+- [ ] Extended repeater
+- [ ] Vigenere cipher
 ---
 
 ### **Count cats!**
