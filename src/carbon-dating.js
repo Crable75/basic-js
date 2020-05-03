@@ -2,7 +2,7 @@ const MODERN_ACTIVITY= 15;
 const HALF_LIFE_PERIOD= 5730;
 
 module.exports = function dateSample(sampleActivity) {
-  let sampleActivityNumber = Number(sampleActivity)
+  let sampleActivityNumber = parseFloat(sampleActivity)
 
   if (typeof(sampleActivity) !== "string" ||
       arguments.length === 0 ||
