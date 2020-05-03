@@ -8,7 +8,7 @@ Your task is to write several functions that are the solution to the subtasks. S
 - [x] Count cats!
 - [x] Carbon dating
 - [x] Dream team
-- [ ] What season?
+- [X] What season?
 - [ ] Tower of Hanoi
 - [ ] Transform array
 - [ ] Chain maker
