@@ -10,8 +10,8 @@ Your task is to write several functions that are the solution to the subtasks. S
 - [x] Dream team
 - [X] What season?
 - [x] Tower of Hanoi
-- [ ] Transform array
-- [ ] Chain maker
+- [x] Transform array
+- [x] Chain maker
 - [ ] Recursive depth calculator
 - [ ] Extended repeater
 - [ ] Vigenere cipher
