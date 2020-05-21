@@ -12,7 +12,7 @@ Your task is to write several functions that are the solution to the subtasks. S
 - [x] Tower of Hanoi
 - [x] Transform array
 - [x] Chain maker
-- [ ] Recursive depth calculator
+- [x] Recursive depth calculator
 - [ ] Extended repeater
 - [ ] Vigenere cipher
 ---
