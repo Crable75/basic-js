@@ -13,8 +13,8 @@ Your task is to write several functions that are the solution to the subtasks. S
 - [x] Transform array
 - [x] Chain maker
 - [x] Recursive depth calculator
-- [ ] Extended repeater
-- [ ] Vigenere cipher
+- [x] Extended repeater
+- [x] Vigenere cipher
 ---
 
 ### **Count cats!**
